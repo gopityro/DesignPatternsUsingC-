@@ -84,6 +84,7 @@ The Facade Design Pattern provides a simplified interface to a set of interfaces
 
 ***Example of Façade Design Pattern:***
 In a restaurant, preparing a meal involves multiple steps like meal preparation and notifying the customer when the meal is ready. We can use the Facade Pattern to simplify these interactions for the client.
+
 <img width="422" alt="image" src="https://github.com/gopityro/Design-Patterns-CPP/assets/25153647/d227fcd5-1fc1-41f0-91af-3d47f88501f2">
 
 
